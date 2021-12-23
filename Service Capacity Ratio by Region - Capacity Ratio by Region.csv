@@ -1,0 +1,241 @@
+Region,State,Capacity,Number of Active Pet Sitters,Number of Active Pet Owners,Capacity Ratio,Ads Needed?,Target?,Post Codes,Geolocation
+West Melbourne,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,,
+East Melbourne,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,,
+North Melbourne,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,,
+South Melbourne,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,,
+West Sydney,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,,
+East Sydney,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,,
+North Sydney,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,,
+South Sydney,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,,
+West Brisbane,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,,
+East Brisbane,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,,
+North Brisbane,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,,
+South Brisbane,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,,
+West Perth,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,,
+East Perth,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,,
+North Perth,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,,
+South Perth,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,,
+West Adelaide,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,,
+East Adelaide,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,,
+North Adelaide,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,,
+South Adelaide,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,,
+Gold Coast–Tweed Heads,Queensland/New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,see relevant tab,
+Canberra–Queanbeyan,Australian Capital Territory/New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,see relevant tab,
+Hobart,Tasmania,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,see relevant tab,
+Newcastle–Maitland,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,2300,
+Sunshine Coast,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",80,30,80:30,Yes,More Pet Owners,"4517, 4518, 4519, 4550, 4551, 4552, 4553, 4554, 4555,  4556, 4557, 4558, 4559, 4560, 4561,  4562,  4564,   4572,   4573,   4574, 4575     ",
+Central Coast,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,"2250, 2251, 2256, 2257, 2258, 2259, 2260, 2261, 2262, 2263, 7315",
+Wollongong,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,"2500, 2520",
+Geelong,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,3220,
+Townsville,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,4810,
+Cairns,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,4870,
+Toowoomba,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,4350,
+Darwin,Northern Territory,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,"0800, 0801",
+Ballarat,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,"3350, 3353",
+Bendigo,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,"3550, 3552",
+Albury–Wodonga,New South Wales/Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,2640,
+Launceston,Tasmania,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,"7250, 7901, 7902, 7903, 7904, 7905, 7906, 7907, 7908, 7909, 7910, 7911, 7912, 7913, 7914, 7922, 7923",
+Mackay,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,4740,
+Rockhampton,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,4700,
+Melton,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,3337,
+Bunbury,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,"6230, 6231",
+Coffs Harbour,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,2450,
+Bundaberg,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,4670,
+Wagga Wagga,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,2650,
+Hervey Bay,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,4655,
+Shepparton–Mooroopna,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,"3630, 3632",
+Mildura–Wentworth,Victoria/New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,"3500, 3502",
+Port Macquarie,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,2444,
+Gladstone–Tannum Sands,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,4680,
+Tamworth,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,2340,
+Traralgon–Morwell,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,3844,
+Bowral–Mittagong,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,2576,
+Orange,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,2800,
+Warragul–Drouin,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,3820,
+Busselton,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,6280,
+Dubbo,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,2830,
+Nowra–Bomaderry,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,2541,
+Bathurst,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,2795,
+Geraldton,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,"6530, 6531",
+Warrnambool,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,3280,
+Albany,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,"6330, 6332",
+Devonport,Tasmania,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,7310,
+Mount Gambier,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,"5290, 5291",
+Kalgoorlie–Boulder,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,"6430, 6433",
+Lismore,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,2480,
+Nelson Bay,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,2315,
+Burnie–Wynyard,Tasmania,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,"7320, 7915, 7916, 7917, 7918, 7919, 7920, 7921",
+Maryborough,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,4650,
+Victor Harbor–Goolwa,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,5211,
+Ballina,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,2478,
+Alice Springs,Northern Territory,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,"0870, 0871, 0872",
+Taree,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,2430,
+Morisset–Cooranbong,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,2264,
+Armidale,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,2350,
+Goulburn,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,2580,
+Bacchus Marsh,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,3340,
+Gisborne–Macedon,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,3437,
+Gympie,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,4570,
+Echuca–Moama,Victoria/New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,3564,
+Whyalla,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,5600,
+Forster–Tuncurry,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,2428,
+Griffith,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,2680,
+St Georges Basin–Sanctuary Point,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,2540,
+Yeppoon,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,4703,
+Wangaratta,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,4806,
+Murray Bridge,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,"5253, 5254",
+Grafton,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,2460,
+Camden,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,2570,
+Mount Isa,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,4825,
+Karratha,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,6714,
+Broken Hill,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,2880,
+Ulladulla,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,2539,
+Moe–Newborough,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,3825,
+Batemans Bay,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,2536,
+Horsham,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,"3400, 3401, 3402",
+Port Lincoln,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,"5606, 5607",
+Singleton,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,2330,
+Bairnsdale,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,3875,
+Kempsey,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,2440,
+Sale,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,"3850, 3853",
+Yanchep,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",3,3,1:1,Yes,More Pet Owners,6035,
+Warwick,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Sitters and Walkers,4370,
+Port Hedland,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,6721,
+Ulverstone,Tasmania,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,7315,
+Emerald,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,4720,
+Broome,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,6725,
+Port Pirie,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,5540,
+Port Augusta,South Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,"5700, 5710",
+Lithgow,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,2790,
+Mudgee,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",8,2,8:2,Yes,More Pet Owners,2850,
+Colac,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,8,9:8,Yes,More Pet Owners,3250,
+Muswellbrook,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,70,4:70,Yes,More Pet Sitters and Walkers,2333,
+Esperance,Western Australia,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",6,5,6:5,Yes,More Pet Owners,6450,
+Parkes,New South Wales,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",4,1,4:1,Yes,More Pet Owners,2870,
+Swan Hill,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",7,67,7:67,Yes,More Pet Owners,3585,
+Portland,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",9,7,9:7,Yes,More Pet Owners,2847,
+Kingaroy,Queensland,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",1,5,1:5,No,,4610,
+,,,,,,,,,
+,,,,,,,,,
+Melbourne,Victoria,"Allocated:     48,8611 hours
+Capacity:     100,6369 hours     ",,,,,,see relevant tab,
+Sydney,New South Wales,,,,,,,see relevant tab,
+Brisbane,Queensland,,,,,,,see relevant tab,
+Perth,Western Australia,,,,,,,see relevant tab,
+Adelaide,South Australia,,,,,,,see relevant tab,
